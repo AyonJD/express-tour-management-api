@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "Deluxe Package",
+        "price" : 100,
+        "description" : "This is the deluxe package",
+        "view" : 100,
+        "status" : "available",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIERqrEvEt0kzSYR7U9iSeCEFSn_LHnP4NQ&usqp=CAU"
+    }
+]
